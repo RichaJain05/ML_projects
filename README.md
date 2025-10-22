@@ -1,1 +1,1 @@
-Here are the ML projects from Baxic to advance level
+Here are the ML projects from Basic to advance level
